@@ -7,4 +7,6 @@ _We can do the first part of this exercise in two ways: through RStudio in Binde
 If you choose to use RStudio through Binder, create a new Jupyter notebook environment with mybinder.org for this week’s forked GitHub repo (as you’ve done in the past). 
 
 If you choose to use RStudio on your own computer, make sure it is downloaded (you can get it from [here](https://rstudio.com/products/rstudio/download/#download)). It will have you download R if you don’t already have it. When you open RStudio on your computer, set up a folder that will be your “working directory” – this is where you can put any data you want to import into R or anything you want to export from R. Click on the ellipses on the right side of the screen, in the files section of RStudio (see below). 
+![alt text](https://github.com/kgarstki/ANTH-641_Stats-with-R/blob/master/Images/Image1.png)
+
 
