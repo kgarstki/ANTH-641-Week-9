@@ -46,7 +46,7 @@ scatterplotMatrix(~Length+Width+Thickness | Name, DartPoints, smooth=FALSE, diag
 
 # Good, now let's try another way to visualize three numerical variables and one categorical variable. 
 # First, we'll install the scatterplot3D package.
-install.packages("scatterplot3D")
+install.packages("scatterplot3d")
 library(scatterplot3d)
 
 # We'll first create a value called shapes. This is a vector from plotting characters (shapes) 21-25.
