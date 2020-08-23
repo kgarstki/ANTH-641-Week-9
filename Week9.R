@@ -66,7 +66,7 @@ legend(list3D$xyz.convert(20, 50, 11), levels(DartPoints$Name), pch=shapes, pt.b
 # using RStudio through a binder, make sure to download it. 
 write.csv(DartPoints, file="DartPoints.csv")
 
-# Last thing we'll do visualize a seriation. Seriations are one of the earliest ways that archaeologists show change
+# Last thing we'll do is visualize a seriation. Seriations are one of the earliest ways that archaeologists show change
 # in artifacts over time, indicating changes in behavior and object production/use through time.
 # Make sure the package "plotrix" is installed at bring it into the enivornment. 
 install.packages("plotrix")
